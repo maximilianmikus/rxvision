@@ -1,0 +1,15 @@
+{
+  "name": "rxvision-cycle-helloworld",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel main.js --out-file index.js"
+  },
+  "author": "Maximilian Götz-Mikus",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.3.13"
+  }
+}
